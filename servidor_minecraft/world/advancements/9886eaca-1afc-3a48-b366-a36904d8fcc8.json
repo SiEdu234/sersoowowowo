@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-17 23:32:27 +0000"
@@ -83,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-17 00:04:43 +0000"
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -485,6 +509,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-19 20:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-18 18:13:42 +0000"
@@ -500,6 +530,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-19 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -744,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "hats:hats/hats_unlocked_10": {
     "criteria": {
       "hats_unlocked": "2025-03-18 17:36:38 +0000"
@@ -849,6 +891,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-03-18 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -1014,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -1059,6 +1113,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-03-19 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -1564,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-17 23:46:51 +0000"
@@ -1603,6 +1669,12 @@
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2025-03-17 23:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -1964,6 +2036,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_purple_dye": "2025-03-18 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -2473,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/uncommon": {
     "criteria": {
       "sword": "2025-03-17 23:32:04 +0000"
@@ -2605,9 +2689,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-18 23:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -2839,6 +2935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -2956,6 +3058,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-18 01:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },
@@ -3497,6 +3605,18 @@
   "mcwbridges:recipes/jungle_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/acc_unlocked_10": {
+    "criteria": {
+      "acc_unlocked": "2025-03-19 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-19 20:26:34 +0000"
     },
     "done": true
   },

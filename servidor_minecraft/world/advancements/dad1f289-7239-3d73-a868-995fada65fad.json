@@ -3346,11 +3346,13 @@
       "minecraft:mountains": "2025-03-15 20:08:44 +0000",
       "minecraft:taiga": "2025-03-13 00:05:50 +0000",
       "minecraft:desert_hills": "2025-03-15 20:30:11 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-19 21:27:03 +0000",
       "minecraft:taiga_hills": "2025-03-13 00:06:09 +0000",
       "minecraft:desert": "2025-03-15 20:28:43 +0000",
       "minecraft:jungle": "2025-03-18 23:03:23 +0000",
       "minecraft:birch_forest": "2025-03-15 19:49:31 +0000",
       "minecraft:jungle_hills": "2025-03-18 23:04:37 +0000",
+      "minecraft:bamboo_jungle": "2025-03-19 21:28:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-18 00:08:48 +0000",
       "minecraft:savanna_plateau": "2025-03-15 20:26:44 +0000",
       "minecraft:beach": "2025-03-15 20:09:08 +0000",
@@ -3359,6 +3361,7 @@
       "minecraft:lukewarm_ocean": "2025-03-15 23:57:44 +0000",
       "minecraft:birch_forest_hills": "2025-03-15 19:45:19 +0000",
       "minecraft:wooded_mountains": "2025-03-15 20:13:03 +0000",
+      "minecraft:bamboo_jungle_hills": "2025-03-19 21:28:22 +0000",
       "minecraft:wooded_hills": "2025-03-15 19:08:38 +0000",
       "minecraft:stone_shore": "2025-03-15 20:11:25 +0000",
       "minecraft:swamp": "2025-03-17 17:09:14 +0000",
@@ -3820,6 +3823,7 @@
       "cooked_beef": "2025-03-15 19:28:39 +0000",
       "baked_potato": "2025-03-17 08:04:22 +0000",
       "bread": "2025-03-15 19:25:24 +0000",
+      "golden_apple": "2025-03-19 21:40:25 +0000",
       "rotten_flesh": "2025-03-15 19:28:02 +0000",
       "golden_carrot": "2025-03-18 00:34:15 +0000",
       "cooked_chicken": "2025-03-16 03:18:10 +0000"
@@ -3985,6 +3989,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-15 19:58:59 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-19 21:30:08 +0000"
     },
     "done": true
   },
