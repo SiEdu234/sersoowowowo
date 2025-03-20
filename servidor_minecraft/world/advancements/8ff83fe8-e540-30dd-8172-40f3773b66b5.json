@@ -1123,6 +1123,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_giant_mushroom": {
+    "criteria": {
+      "location0": "2025-03-20 00:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-19 17:23:41 +0000"
