@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "hats:hats/hats_unlocked_50": {
+    "criteria": {
+      "hats_unlocked": "2025-03-20 04:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-18 23:35:57 +0000"
@@ -705,6 +711,7 @@
       "minecraft:creeper": "2025-03-18 00:47:26 +0000",
       "minecraft:slime": "2025-03-18 23:29:27 +0000",
       "minecraft:phantom": "2025-03-18 23:18:20 +0000",
+      "minecraft:zombified_piglin": "2025-03-20 07:05:06 +0000",
       "minecraft:witch": "2025-03-18 18:36:29 +0000",
       "minecraft:wither_skeleton": "2025-03-18 23:18:24 +0000",
       "minecraft:enderman": "2025-03-18 07:53:57 +0000",
@@ -1212,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-20 05:18:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-03-17 00:00:25 +0000"
@@ -1666,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-20 06:43:24 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2025-03-17 23:38:38 +0000"
@@ -1737,6 +1756,13 @@
       "has_planks": "2025-03-16 23:56:54 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-03-20 07:05:25 +0000",
+      "minecraft:basalt_deltas": "2025-03-20 07:03:55 +0000"
+    },
+    "done": false
   },
   "mcwdoors:recipes/bamboo": {
     "criteria": {
@@ -1919,6 +1945,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-20 07:03:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -2084,6 +2116,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-03-18 18:13:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-20 04:21:36 +0000"
     },
     "done": true
   },
@@ -2539,6 +2577,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-20 04:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-18 02:11:04 +0000"
@@ -2629,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-20 05:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-18 18:13:42 +0000"
@@ -2638,6 +2688,12 @@
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-20 07:03:55 +0000"
     },
     "done": true
   },
@@ -2893,6 +2949,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-20 07:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-18 22:59:15 +0000"
@@ -2956,6 +3018,12 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-20 07:06:05 +0000"
     },
     "done": true
   },
