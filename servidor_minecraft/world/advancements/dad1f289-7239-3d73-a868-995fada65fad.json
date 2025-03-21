@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 03:06:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-03-15 20:32:10 +0000"
@@ -2092,6 +2098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-21 06:08:36 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-03-16 02:41:30 +0000"
@@ -2506,6 +2518,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 05:58:34 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_wood": "2025-03-13 00:05:30 +0000"
@@ -2665,6 +2683,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-15 19:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-21 07:02:32 +0000"
     },
     "done": true
   },
@@ -5230,6 +5254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-21 07:02:32 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lantern": {
     "criteria": {
       "lantern": "2025-03-15 19:16:33 +0000"
@@ -5353,6 +5383,12 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-03-16 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-21 06:08:36 +0000"
     },
     "done": true
   },
