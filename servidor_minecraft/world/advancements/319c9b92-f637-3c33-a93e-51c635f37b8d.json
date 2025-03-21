@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 07:49:31 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-03-13 00:51:30 +0000"
@@ -482,6 +488,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-13 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-20 07:49:30 +0000"
     },
     "done": true
   },
@@ -1181,6 +1193,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-20 08:17:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-03-18 17:22:08 +0000"
@@ -1322,6 +1340,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-17 04:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 07:49:31 +0000"
     },
     "done": true
   },
