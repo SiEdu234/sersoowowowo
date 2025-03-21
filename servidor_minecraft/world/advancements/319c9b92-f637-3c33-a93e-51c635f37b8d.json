@@ -5140,6 +5140,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-03-21 18:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-20 03:33:59 +0000"
