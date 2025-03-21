@@ -2806,6 +2806,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_double_threeway_corner": {
+    "criteria": {
+      "hasFramedCorner": "2025-03-21 08:09:49 +0000"
+    },
+    "done": true
+  },
   "hats:hats/wear_hat_with_accessory": {
     "criteria": {
       "code_trigger": "2025-03-19 01:06:10 +0000"

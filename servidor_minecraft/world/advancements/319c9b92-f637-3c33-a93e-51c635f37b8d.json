@@ -1031,6 +1031,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-21 09:17:43 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:51:30 +0000"
@@ -2693,6 +2699,12 @@
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_wood": "2025-03-13 00:51:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-21 09:14:15 +0000"
     },
     "done": true
   },

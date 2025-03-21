@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2025-03-21 09:48:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/end_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -116,6 +122,12 @@
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
     },
     "done": true
   },
@@ -236,6 +248,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-03-17 23:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
     },
     "done": true
   },
@@ -695,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -1121,6 +1145,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
     },
     "done": true
   },
@@ -2836,6 +2866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-18 00:25:32 +0000"
@@ -3413,6 +3449,12 @@
     },
     "done": true
   },
+  "hats:hats/acc_unlocked_25": {
+    "criteria": {
+      "acc_unlocked": "2025-03-21 07:43:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -3530,6 +3572,12 @@
   "mcwbridges:recipes/warped_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-21 09:01:54 +0000"
     },
     "done": true
   },
@@ -3704,6 +3752,12 @@
   "mcwbridges:recipes/prismarine_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-21 09:48:22 +0000"
     },
     "done": true
   },
