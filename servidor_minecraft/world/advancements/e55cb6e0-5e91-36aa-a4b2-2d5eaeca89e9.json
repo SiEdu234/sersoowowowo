@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-22 20:55:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
       "has_planks": "2025-03-14 00:23:17 +0000"
@@ -1085,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-22 20:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-18 18:08:14 +0000"
@@ -1278,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-22 22:59:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-15 20:14:59 +0000"
@@ -1347,6 +1365,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-03-16 00:25:41 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/accessory_in_accessory": {
+    "criteria": {
+      "code_trigger": "2025-03-22 22:15:41 +0000"
     },
     "done": true
   },
@@ -1542,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-22 19:16:30 +0000"
@@ -1551,6 +1581,12 @@
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-03-14 00:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-22 20:55:32 +0000"
     },
     "done": true
   },
@@ -2191,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-14 00:23:17 +0000"
@@ -2482,6 +2524,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-16 01:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
     },
     "done": true
   },
@@ -3097,6 +3145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-16 01:31:59 +0000"
@@ -3121,6 +3175,7 @@
       "minecraft:piglin_brute": "2025-03-16 00:15:01 +0000",
       "minecraft:creeper": "2025-03-16 02:20:08 +0000",
       "minecraft:slime": "2025-03-19 17:47:38 +0000",
+      "minecraft:phantom": "2025-03-22 20:36:33 +0000",
       "minecraft:witch": "2025-03-15 20:18:07 +0000",
       "minecraft:wither_skeleton": "2025-03-18 18:58:57 +0000",
       "minecraft:husk": "2025-03-19 17:03:48 +0000",
@@ -3137,6 +3192,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2025-03-16 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-22 20:40:53 +0000"
     },
     "done": true
   },
@@ -3254,6 +3315,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-19 16:54:16 +0000"
@@ -3311,6 +3378,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-19 17:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
     },
     "done": true
   },
@@ -3833,6 +3906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-22 22:59:20 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-03-14 00:23:17 +0000"
@@ -3860,6 +3939,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-03-20 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-22 20:40:53 +0000"
     },
     "done": true
   },
@@ -4116,6 +4201,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-16 22:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
     },
     "done": true
   },
@@ -4689,6 +4780,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-03-22 22:25:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-16 01:31:59 +0000"
@@ -4923,6 +5020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-03-18 18:14:47 +0000"
@@ -5103,6 +5206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-03-19 16:59:32 +0000"
@@ -5160,6 +5269,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-15 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:17:53 +0000"
     },
     "done": true
   },
