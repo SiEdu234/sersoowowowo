@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:51:30 +0000"
@@ -1205,6 +1211,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-03-15 19:09:32 +0000"
@@ -1427,6 +1439,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-03-15 19:27:52 +0000"
@@ -1591,6 +1609,12 @@
     },
     "done": true
   },
+  "hats:hats/accessory_in_accessory": {
+    "criteria": {
+      "code_trigger": "2025-03-22 01:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-03-16 03:05:21 +0000"
@@ -1666,6 +1690,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-15 19:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-22 03:08:12 +0000"
     },
     "done": true
   },
@@ -1936,6 +1966,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-17 23:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 03:07:19 +0000"
     },
     "done": true
   },
@@ -2254,6 +2290,12 @@
   "framedblocks:recipes/framed_blocks/framed_pane": {
     "criteria": {
       "hasFramedBlock": "2025-03-16 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
     },
     "done": true
   },
@@ -2672,6 +2714,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
+    },
+    "done": true
+  },
   "hats:hats/acc_unlocked_1": {
     "criteria": {
       "acc_unlocked": "2025-03-15 19:16:13 +0000"
@@ -2852,6 +2900,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-15 19:06:34 +0000"
@@ -2918,6 +2972,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-22 01:39:06 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_warped_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:51:30 +0000"
@@ -2975,6 +3035,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-03-18 23:23:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
     },
     "done": true
   },
@@ -3155,6 +3221,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-15 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
     },
     "done": true
   },
@@ -3484,6 +3556,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-17 04:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-22 03:08:12 +0000"
     },
     "done": true
   },
@@ -4436,6 +4514,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-22 03:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-15 19:17:25 +0000"
@@ -4792,6 +4876,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-15 19:14:13 +0000"
@@ -4849,6 +4939,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-03-13 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-03-22 03:20:13 +0000"
     },
     "done": true
   },
@@ -5206,6 +5302,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/expert_searcher": {
+    "criteria": {
+      "find_easter_egg": "2025-03-22 03:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-03-16 00:49:18 +0000"
@@ -5389,6 +5491,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-03-18 23:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-22 03:07:19 +0000"
     },
     "done": true
   },

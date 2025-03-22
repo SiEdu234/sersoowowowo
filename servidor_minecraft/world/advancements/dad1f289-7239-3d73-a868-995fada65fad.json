@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:05:30 +0000"
@@ -332,6 +338,18 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-13 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-22 00:37:59 +0000"
     },
     "done": true
   },
@@ -758,6 +776,12 @@
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 23:55:38 +0000"
     },
     "done": true
   },
@@ -1456,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-20 02:24:30 +0000"
@@ -1684,6 +1714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-17 06:01:32 +0000"
@@ -1699,6 +1735,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-16 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-22 00:44:34 +0000"
     },
     "done": true
   },
@@ -1783,6 +1825,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-03-17 23:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
     },
     "done": true
   },
@@ -1978,6 +2026,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 02:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-03-20 04:24:55 +0000"
@@ -2011,6 +2065,12 @@
   "framedblocks:recipes/framed_blocks/framed_torch": {
     "criteria": {
       "hasFramedBlock": "2025-03-20 06:36:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:50:03 +0000"
     },
     "done": true
   },
@@ -2125,6 +2185,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-17 07:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
     },
     "done": true
   },
@@ -2374,9 +2440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-15 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
     },
     "done": true
   },
@@ -2407,6 +2485,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-15 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
     },
     "done": true
   },
@@ -3309,6 +3393,7 @@
       "minecraft:pillager": "2025-03-15 20:40:19 +0000",
       "minecraft:blaze": "2025-03-18 23:19:18 +0000",
       "minecraft:skeleton": "2025-03-15 19:25:18 +0000",
+      "minecraft:ravager": "2025-03-22 02:16:56 +0000",
       "minecraft:ghast": "2025-03-20 03:21:55 +0000",
       "minecraft:hoglin": "2025-03-20 07:26:39 +0000",
       "minecraft:vindicator": "2025-03-15 23:59:01 +0000",
@@ -3316,6 +3401,8 @@
       "minecraft:spider": "2025-03-15 19:45:23 +0000",
       "minecraft:piglin_brute": "2025-03-16 00:15:34 +0000",
       "minecraft:creeper": "2025-03-15 20:15:31 +0000",
+      "minecraft:wither": "2025-03-21 23:55:33 +0000",
+      "minecraft:evoker": "2025-03-22 02:18:52 +0000",
       "minecraft:phantom": "2025-03-17 04:00:26 +0000",
       "minecraft:zombified_piglin": "2025-03-16 03:06:01 +0000",
       "minecraft:witch": "2025-03-16 00:27:13 +0000",
@@ -3326,6 +3413,7 @@
       "minecraft:enderman": "2025-03-15 20:16:18 +0000",
       "minecraft:silverfish": "2025-03-16 00:51:02 +0000",
       "minecraft:stray": "2025-03-16 00:07:47 +0000",
+      "minecraft:vex": "2025-03-22 02:19:05 +0000",
       "minecraft:zombie": "2025-03-13 01:54:00 +0000",
       "minecraft:drowned": "2025-03-16 21:27:11 +0000",
       "minecraft:zombie_villager": "2025-03-15 20:50:10 +0000"
@@ -3407,6 +3495,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-22 01:54:52 +0000"
     },
     "done": true
   },
@@ -3750,6 +3844,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-20 08:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
     },
     "done": true
   },
@@ -4097,6 +4197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2025-03-18 23:02:32 +0000"
@@ -4226,6 +4332,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-17 07:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-22 02:21:22 +0000"
     },
     "done": true
   },
@@ -4367,6 +4479,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-21 23:54:55 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-03-13 00:05:30 +0000"
@@ -4400,6 +4518,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-16 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:55:33 +0000"
     },
     "done": true
   },
@@ -4473,6 +4597,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-21 23:55:38 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-03-13 00:05:30 +0000"
@@ -4533,6 +4663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-22 00:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-03-16 01:45:42 +0000"
@@ -4551,6 +4687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-21 23:56:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-03-16 01:56:14 +0000"
@@ -4566,6 +4708,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-03-20 06:55:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-21 23:55:38 +0000"
     },
     "done": true
   },
@@ -5227,6 +5375,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-03-15 23:46:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-21 23:55:38 +0000"
     },
     "done": true
   },

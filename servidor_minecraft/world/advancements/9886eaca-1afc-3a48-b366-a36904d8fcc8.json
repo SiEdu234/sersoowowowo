@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-17 00:04:43 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-18 23:37:17 +0000"
@@ -512,6 +530,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-18 22:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
     },
     "done": true
   },
@@ -742,16 +766,22 @@
       "minecraft:pillager": "2025-03-18 08:10:44 +0000",
       "minecraft:blaze": "2025-03-18 23:19:06 +0000",
       "minecraft:skeleton": "2025-03-18 00:28:40 +0000",
+      "minecraft:ravager": "2025-03-22 02:18:53 +0000",
+      "minecraft:ghast": "2025-03-21 23:38:40 +0000",
+      "minecraft:vindicator": "2025-03-22 02:15:26 +0000",
       "minecraft:magma_cube": "2025-03-18 23:21:50 +0000",
       "minecraft:spider": "2025-03-18 00:29:54 +0000",
       "minecraft:creeper": "2025-03-18 00:47:26 +0000",
       "minecraft:slime": "2025-03-18 23:29:27 +0000",
+      "minecraft:evoker": "2025-03-22 02:20:31 +0000",
       "minecraft:phantom": "2025-03-18 23:18:20 +0000",
       "minecraft:zombified_piglin": "2025-03-20 07:05:06 +0000",
       "minecraft:witch": "2025-03-18 18:36:29 +0000",
       "minecraft:wither_skeleton": "2025-03-18 23:18:24 +0000",
+      "minecraft:husk": "2025-03-21 23:56:27 +0000",
       "minecraft:enderman": "2025-03-18 07:53:57 +0000",
       "minecraft:stray": "2025-03-21 04:30:42 +0000",
+      "minecraft:vex": "2025-03-22 02:20:37 +0000",
       "minecraft:zombie": "2025-03-17 23:39:01 +0000",
       "minecraft:drowned": "2025-03-19 01:20:50 +0000",
       "minecraft:zombie_villager": "2025-03-18 06:40:56 +0000"
@@ -869,6 +899,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-22 02:15:26 +0000"
     },
     "done": true
   },
@@ -1382,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-03-19 02:06:56 +0000"
@@ -1574,11 +1616,13 @@
       "minecraft:mountains": "2025-03-19 03:05:05 +0000",
       "minecraft:taiga": "2025-03-16 23:57:24 +0000",
       "minecraft:taiga_hills": "2025-03-16 23:56:54 +0000",
+      "minecraft:desert": "2025-03-22 00:40:36 +0000",
       "minecraft:beach": "2025-03-19 01:21:58 +0000",
       "minecraft:dark_forest": "2025-03-18 23:17:05 +0000",
       "minecraft:river": "2025-03-17 23:36:25 +0000",
       "minecraft:wooded_hills": "2025-03-18 00:28:14 +0000",
       "minecraft:stone_shore": "2025-03-19 03:04:54 +0000",
+      "minecraft:savanna": "2025-03-22 01:43:57 +0000",
       "minecraft:plains": "2025-03-17 00:04:48 +0000"
     },
     "done": false
@@ -1815,6 +1859,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-03-20 07:05:25 +0000",
+      "minecraft:nether_wastes": "2025-03-21 23:34:35 +0000",
       "minecraft:basalt_deltas": "2025-03-20 07:03:55 +0000"
     },
     "done": false
@@ -1829,6 +1874,12 @@
     "criteria": {
       "has_the_recipe": "2025-03-17 23:50:43 +0000",
       "has_sleeping_bag": "2025-03-17 23:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -1988,6 +2039,12 @@
     },
     "done": true
   },
+  "hats:hats/accessory_in_accessory": {
+    "criteria": {
+      "code_trigger": "2025-03-22 01:36:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-03-21 06:07:30 +0000"
@@ -2003,6 +2060,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-18 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -2027,6 +2090,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-17 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-22 02:21:22 +0000"
     },
     "done": true
   },
@@ -2204,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-03-16 23:56:54 +0000"
@@ -2267,6 +2342,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-18 01:02:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-03-22 01:51:02 +0000"
     },
     "done": true
   },
@@ -2347,6 +2428,12 @@
   "mcwbridges:recipes/red_sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -2482,9 +2569,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-18 08:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -2527,6 +2632,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-22 02:23:48 +0000"
     },
     "done": true
   },
@@ -2716,6 +2827,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 02:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-17 00:04:43 +0000"
@@ -2881,6 +2998,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-03-18 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -3130,6 +3253,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 02:05:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-03-18 18:01:15 +0000"
@@ -3305,6 +3434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -3335,6 +3470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-03-16 23:56:54 +0000"
@@ -3356,6 +3497,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-18 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-22 00:46:19 +0000"
     },
     "done": true
   },
@@ -3503,6 +3650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-18 22:59:06 +0000"
@@ -3638,6 +3791,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-18 18:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-21 23:42:36 +0000"
     },
     "done": true
   },
